@@ -1,0 +1,45 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.quienes-somos{
+    width: 100%;
+    height: auto;
+    background-color: black;
+    color: #ffff;
+}
+
+.info-quienes-somos{
+    width: 90%;
+}
+
+.destacados{
+    width: 100%;
+    height: auto;
+    background-color: black;
+    color: #ffff;
+}
+
+.cards-section{
+    width: 90%;
+}
+
+.contacto{
+    width: 100%;
+    height: auto;
+    background-color: black;
+    color: #ffff;
+}
+
+.form{
+    width: 90%;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    color: #ffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
